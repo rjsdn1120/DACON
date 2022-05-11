@@ -1,0 +1,4 @@
+1 GaussianBlur
+2 HorizontalFlip
+3 ChannelShuffle
+4 ColorJitter
